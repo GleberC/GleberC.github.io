@@ -151,7 +151,7 @@ h3{
 
  .menu__mobile{
     
-    display: flex;
+    display: none;
     flex-direction: row;
     justify-content: space-between;
     font-size: 2rem;
